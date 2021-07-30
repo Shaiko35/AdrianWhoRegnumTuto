@@ -1,0 +1,3 @@
+Mac Adress: Device Manager -> Network adapters -> "controller" or smt -> Properties -> Advanced -> Network Adress
+New Windows User: Settings -> Accounts -> Family & other users -> Add someone else to this PC -> "I don't have this person's sign-in information" -> "Add a user without a Microsoft account"
+Regnum: Shift & Rightclick on Regnum (Only if u use the other acc) -> Run as a different user -> Login with the new Windows user
